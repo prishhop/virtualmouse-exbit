@@ -19,5 +19,7 @@ OpenCV
 
 NumPy
 
+AutoPy
+
 
 This project demonstrates the potential of computer vision for human-computer interaction and was developed as a proof-of-concept for an exhibition showcase.
